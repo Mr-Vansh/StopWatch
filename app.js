@@ -55,7 +55,7 @@ function stopWatch() {
             min = min + 1;
             sec = 0;
         }
-        if (min == 100) {
+        if (min == 60) {
             hr = hr + 1;
             min = 0;
             sec = 0;
