@@ -19,7 +19,7 @@ function stop() {
     timer = false;
 }
 
-// stop function
+// reset function
 function reset() {
     timer = false;
 
